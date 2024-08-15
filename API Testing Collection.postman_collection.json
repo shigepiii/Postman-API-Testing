@@ -1,0 +1,10 @@
+{
+	"info": {
+		"_postman_id": "0380c146-617b-4fd1-a21c-25a932f5a0e4",
+		"name": "API Testing Collection",
+		"description": "This collection contains various API endpoint tests. Specifically, it includes test cases for POST, GET, and PUT requests, and it verifies the responses for each request. By using this collection, you can efficiently confirm the behavior of the APIs.  \n  \nこのコレクションには、さまざまなAPIエンドポイントのテストが含まれています。具体的には、POST、GET、PUTリクエストのテストケースが含まれており、それぞれのリクエストに対してレスポンスの検証を行います。このコレクションを使用することで、APIの動作確認が効率的に行えます。",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37690373"
+	},
+	"item": []
+}
