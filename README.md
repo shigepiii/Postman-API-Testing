@@ -33,6 +33,10 @@ This project demonstrates how to perform API testing using Postman. It includes 
 **Step 4: Run the Postman collection using Newman (optional, for automation)（Newmanを使用してPostmanコレクションを実行する（自動化の場合））**
 ```newman run TestCases.json -e Environment.json```
 
+For an example of how the collection should look, see [API Testing Collection.postman_collection.json]
+
+スクリプトがどのように見えるべきかの例については、[API Testing Collection.Postman collection。json]をご覧ください。
+
 ## Technologies 
 - Postman
 - JSON
