@@ -21,16 +21,16 @@ This project demonstrates how to perform API testing using Postman. It includes 
 ---
 
 ## Usage 
-**Step 1: Clone the repository(リポジトリをクローン）**
+**Step 1**: Clone the repository(リポジトリをクローン）
 ```git clone https://github.com/yourusername/Postman-API-Testing.git```
 
-**Step 2: Navigate to the project directory（プロジェクトディレクトリに移動する）**
+**Step 2**: Navigate to the project directory（プロジェクトディレクトリに移動する）
 ```cd Postman-API-Testing```
 
-**Step 3: Install dependencies (if applicable, for example, Newman CLI for running tests)（必要な依存関係をインストールする（例Newman CLIのインストール））**
+**Step 3**: Install dependencies (if applicable, for example, Newman CLI for running tests)（必要な依存関係をインストールする（例Newman CLIのインストール））
 ```npm install -g newman```
 
-**Step 4: Run the Postman collection using Newman (optional, for automation)（Newmanを使用してPostmanコレクションを実行する（自動化の場合））**
+**Step 4**: Run the Postman collection using Newman (optional, for automation)（Newmanを使用してPostmanコレクションを実行する（自動化の場合））
 ```newman run TestCases.json -e Environment.json```
 
 For an example of how the collection should look, see [API Testing Collection.postman_collection.json]
