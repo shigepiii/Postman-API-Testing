@@ -44,7 +44,3 @@ For an example of how the collection should look, see [API Testing Collection.po
 
 ---
 
-## License 
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-このプロジェクトはMITライセンスの下でライセンスされています。詳細はLICENSEファイルをご覧ください。
