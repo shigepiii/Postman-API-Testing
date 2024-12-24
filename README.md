@@ -27,20 +27,27 @@ This project demonstrates how to perform API testing using Postman. It includes 
 
 ```cd Postman-API-Test```
 
-**2**. Install Postman（Postmanをインストールします）.
+**2**. Install Postman（Postmanをインストールします）
+
 
 **3**. Import the Postman collection and environment files（Postmanのコレクションと環境ファイルをインポートします）:
-	•	Open Postman（Postmanを開きます。）
-	•	Click on “Import” and select the Postman-Collection.json and Postman-Environment.json files from this repository.
+
+・Open Postman（Postmanを開きます。）
+
+・Click on “Import” and select the Postman-Collection.json and Postman-Environment.json files from this repository.
+
  （『インポート』をクリックし、このリポジトリからPostman-Collection.jsonとPostoman -Enviroment.jasonファイルを選択します。）
 
 **4**. Configure environment variables (必要に応じて環境変数を設定します):
-	•	Set the necessary environment variables like API keys, base URL, etc., in the Postman environment.
+・Set the necessary environment variables like API keys, base URL, etc., in the Postman environment.
+
  （APIキーやベースURLなど、必要な環境変数をPostmanの環境設定で設定します。）
 
 **5**. Run the collection（コレクションを実行します）:
-	•	Select the collection from the left sidebar.（左側のサイドバーからコレクションを選択します。）
-	•	Click on “Run” to start running the API tests.（『実行』をクリックして、APIテストを開始します。）
+
+・Select the collection from the left sidebar.（左側のサイドバーからコレクションを選択します。）
+
+・Click on “Run” to start running the API tests.（『実行』をクリックして、APIテストを開始します。）
 
 ---
 
