@@ -66,7 +66,7 @@ This project demonstrates how to perform API testing using Postman. It includes 
 
 For an example of how the collection should look, see [API Testing Collection.postman_collection.json]
 
-スクリプトがどのように見えるべきかの例については、[API Testing Collection.Postman collection。json]をご覧ください。
+このスクリプトの使用例については、[API Testing Collection.Postman collection。json]をご覧ください。
 
 ## Technologies 
 - *Postman*
